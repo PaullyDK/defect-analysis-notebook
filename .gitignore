@@ -1,0 +1,8 @@
+# Ignore python virtual environments
+.venv/
+
+# Ignore Mac system configuration files
+.DS_Store
+
+# Ignore Jupyter automated backups
+.ipynb_checkpoints/
